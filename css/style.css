@@ -5,7 +5,7 @@
 }
 
 .hero {
-	background-image: url(/images/hero/hero-bg.jpg);
+	background-image: url(images/hero/hero-bg.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 40vh;
